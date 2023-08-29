@@ -36,6 +36,8 @@ Before running this application, make sure you have the following installed on y
    ```
 
 This will start the web server on port 8080. You can access the application by opening your browser and navigating to [http://localhost:8080](http://localhost:8080).
+
+## Node Installation
    
 Alternatively, you can use Node.js to run the application. Make sure you have Node installed and running on your machine.
 
